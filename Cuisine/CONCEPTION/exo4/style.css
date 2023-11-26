@@ -1,0 +1,48 @@
+.input{
+    border-style: hidden;
+    border: 1px;
+    background-color: lightgray;
+}
+
+.t1{
+    border-style: hidden;
+    border: 1px;
+    border-collapse: separate;
+    border-spacing: 10px 0px;
+    
+}
+div{
+    background-color: lightgreen;
+    width: 692px;
+    height: 30px;
+}
+.center{
+    background-color: lightgrey;
+    color: gray;
+    width: 200px;
+}
+.btn{
+    background-color: lightgreen;
+    color: white;
+    height: 50px;
+    width: 70px;
+    
+}
+.t1{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 300px;
+}
+.t2{
+    border-collapse: separate;
+    border-spacing: 0px 10px ;
+    width: 235px;
+}
+.input{
+    border-bottom: 1px;
+    border-style: solid;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    
+}

@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(170, 215, 210);
+}
+
+form{
+   background-color:white;
+   align-items: center;
+   width: 90%;
+}
+table{
+    border-collapse: separate;
+    border-spacing: 10px 20px;
+}
+
+.tx{
+    text-align: right;
+}
+
